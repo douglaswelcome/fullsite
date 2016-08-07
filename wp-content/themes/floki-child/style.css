@@ -1,0 +1,214 @@
+/*
+ Theme Name:     floki Child Theme
+ Theme URI:
+ Description:    floki Child Theme for DouglasWelcome.com
+ Author:         Douglas Welcome
+ Author URI:     http://douglaswelcome.com
+ Template:       floki
+ Version:        1.0.0
+*/
+
+@import url("../floki/style.css");
+
+@import 'https://fonts.googleapis.com/css?family=Raleway';
+
+
+html {
+		    position: relative;
+		    min-height: 100%;
+		}
+body {
+		    margin: 0 0 0; /* bottom = footer height*/
+ }
+
+
+
+/*this is to push the footer
+* {
+	margin: 0;
+}
+html, body {
+		height: 100%;
+		}
+.wrapper {
+		min-height: 100%;
+		height: auto !important;
+		height: 100%;
+		margin: 0 auto -4em;
+	}
+.footer, .push {
+		height: 10em;
+		}
+this is to push the footer*/
+
+#logoweb {
+	font-weight: 400;
+
+}
+#logoweb a {
+	color: #4EBFA7;
+}
+
+#menu {
+	font-weight: 600;
+}
+
+#mainheader {
+	float:inherit;
+	position:relative;
+	height: 750px;
+}
+#mainheader .text{
+	position: absolute;
+top: 10%;
+left: 12%;
+ width: 75%;
+ margin: 0 auto;
+ opacity: 0;
+}
+#mainheader h2 {
+	font-size: 35px;line-height: 55px;font-weight: 200;letter-spacing: 5px;
+	border: none;
+border-left: none;
+border-right: none;
+padding: 0px 40px;
+margin-top: 0;
+margin-bottom: 0;
+color: #ecf0f1;
+}
+
+#mainheader .text .line1dw {
+	border-top: 2.5px solid;
+	border-bottom: none;
+	border-left: none;
+	border-right: none;
+	color: #ecf0f1;
+	padding-top: 5px;
+
+}
+
+#mainheader .text .line2dw {
+	border-top: none;
+	border-bottom: 2.5px solid;
+	border-left: none;
+	border-right: none;
+	color: #ecf0f1;
+	padding-bottom: 5px;
+}
+
+body a:visited {
+	color: #4EBFA7;
+}
+
+#menu a:hover, a:focus {
+	color: #F15B66;
+}
+.cl-effect-21 a::before {
+	background: #2C6466;
+}
+
+.cl-effect-21 .current_page_item > a::before, .current-menu-item > a::before {
+	background: #2C6466;
+}
+
+.toggleMenu img {
+	margin-top: 4px
+}
+
+body>footer {
+	padding-top: 0px;
+	background: transparent;
+		}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 108px;
+    width: 100%;
+		background-color: transparent;
+}
+
+
+
+.footer2 img {
+	margin-top:25px;
+	margin-bottom:20px;
+	margin-right:10px;
+	margin-left:10px;
+}
+
+.social-icons a:hover {
+
+	opacity: 0.5;
+}
+
+.nav a {
+			padding-left:10px;
+			padding-right:10px;
+			font-size: 14px;
+}
+
+.flokipost {
+	padding: 15px 15px 108px;
+
+}
+
+.flokipost strong {
+	color: #F15B66;
+	font-weight: 600;
+	font-size: 20px;
+	display: inline;
+
+}
+
+.flokipost a:hover, a:focus{
+	color: #F15B66;
+
+}
+
+.logo {
+	display: block; position: fixed; left: 0px; right: 0px; z-index: 9999;
+
+	box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0.33);
+	-moz-box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0.33);
+	-webkit-box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0.33);
+	text-align:center;
+	margin:0;
+}
+
+video#bgvid {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+@media screen and (max-device-width: 768px) {
+  #mainheader {
+			background: url(http://douglaswelcome.com/wp-content/uploads/2016/06/goldengatebw.jpg) #000 no-repeat center center fixed;
+
+		}
+  #bgvid {
+      display: none;
+    }
+ 	#mobilecenterdw {
+	 	width: 317px;
+ 		}
+
+	}
+
+	@media screen and (max-device-width: 477px) {
+		#mainheader {
+			height: 875px;
+	}
