@@ -40,6 +40,9 @@
 # track readme.md in the root (i.e. do NOT ignore it)
 !readme.md
 
+# track deploy.php in the root (i.e. do NOT ignore it)
+!deploy.php
+
 # ignore all files that start with ~
 ~*
 
