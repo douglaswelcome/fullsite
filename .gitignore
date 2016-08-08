@@ -30,6 +30,8 @@
 
 # ignore all files starting with .
 .*
+#except
+!.DS_Store
 
 # track this file .gitignore (i.e. do NOT ignore it)
 !.gitignore
