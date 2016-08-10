@@ -96,7 +96,7 @@ color: #ecf0f1;
 	padding-bottom: 5px;
 }
 
-body a:visited {
+body a:visited, a {
 	color: #4EBFA7;
 }
 
@@ -113,6 +113,20 @@ body a:visited {
 
 .toggleMenu img {
 	margin-top: 4px
+}
+
+
+#nopostdw {
+	width: 100%;
+}
+
+.portgriddw {
+	border-color: blue;
+	border-style: solid;
+	width: 33.3%;
+	height: 300px;
+	position: relative;
+	float: left;
 }
 
 body>footer {
@@ -149,16 +163,27 @@ footer {
 			font-size: 14px;
 }
 
+section {
+	margin-bottom: 108px
+}
+
 .flokipost {
-	padding: 15px 15px 108px;
+	padding: 15px 15px;
 
 }
+
+
 
 .flokipost strong {
 	color: #F15B66;
 	font-weight: 600;
 	font-size: 20px;
 	display: inline;
+
+}
+
+.flokipost a {
+	color: #4EBFA7;
 
 }
 

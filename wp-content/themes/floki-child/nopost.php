@@ -76,62 +76,43 @@ else {
 		</div>
 
 	<?php } ?>
+	<!-- page content here-->
+	<div class="portgriddw">
+1
+	</div>
+	<div class="portgriddw">
+2
+	</div>
+	<div class="portgriddw">
+3
+	</div>
+	<div class="portgriddw">
+4
+	</div>
+	<div class="portgriddw">
+5
+	</div>
+	<div class="portgriddw">
+6
+	</div>
+	<div class="portgriddw">
+7
+	</div>
+	<div class="portgriddw">
+8
+	</div>
+	<div class="portgriddw">
+9
+	</div>
 
+
+
+	<!-- page content end here-->
 <div class="<?php echo $content_css; ?>">
 
 	<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 
-
-			<article id="post-<?php the_ID(); ?>" class="<?php echo $mainclass; ?> hiddenover">
-
-
-
-<?php if($tipopage=="" || $tipopage == 'full') {  ?>
-
-
-<div class="container">
-
-<?php } 	?>
-
-<div class="flokipost" style="<?php echo  $cssextra;  ?>">
-
- <?php
-
-		if (has_post_thumbnail()) {
-
-	the_post_thumbnail();
-
-}
-
-
-		?>
-
-                    <?php  the_content('<button>'.__( 'Read more', 'floki' ).' &raquo;</button>'); ?>
-
-		</div>
-
-
-                                             <?php if($tipopage=="" || $tipopage == 'full') { ?>
-
-</div>
-
-<?php  } ?>
-
-
-				 <?php if(floki_get_option( 'comments' )==1) include("coments.php"); ?>
-
-			</article>
-
-
 	<?php endwhile; else: ?>
-
-
-			<article>
-				<p><?php _e( 'Sorry, no posts matched your criteria.', 'floki' ); ?></p>
-			</article>
-
-
-
 
 	<?php endif; ?>
 </div>
