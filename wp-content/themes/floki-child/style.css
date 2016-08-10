@@ -49,6 +49,10 @@ this is to push the footer*/
 	color: #4EBFA7;
 }
 
+#logoweb a:hover {
+	color: #F15B66;
+}
+
 #menu {
 	font-weight: 600;
 }

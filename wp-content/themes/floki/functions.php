@@ -273,7 +273,12 @@ function floki_getContrastYIQ($hexcolor){
 function floki_printsocial($color) {
 	$sociallinks=array("facebook", "rss", "twitter", "flickr","youtube","vimeo","google","pinterest","tumblr","dribbble","digg","github","linkedin","blogger","skype","myspace","yahoo","instagram");
 	foreach($sociallinks as $s) {
-			if(floki_get_option( $s )!="") echo ' <a href="'.esc_url(floki_get_option( $s )).'" target="_blank"><img src="'.get_template_directory_uri().'/images/social_icons/'.$color.'/'.$s.'.png" /></a>';
+			if(floki_get_option( $s )!="") echo ' <a href="'.esc_url(floki_get_option( $s )).'" target="_blank">
+			<img src="'.get_template_directory_uri().'/images/social_icons/'.$color.'/'.$s.'.png"
+			onmouseover="this.src=\''.get_template_directory_uri().'/images/social_icons/'.$color.'/'.$s.'r.png\';"
+			onmouseout="this.src=\''.get_template_directory_uri().'/images/social_icons/'.$color.'/'.$s.'.png\';"
+			 />
+			 </a>';
 	}
 }
 
