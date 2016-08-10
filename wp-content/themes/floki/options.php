@@ -598,6 +598,12 @@ $digg = esc_url($_POST["digg"]);
 set_theme_mod("digg", $digg);
 }
 
+if(isset($_POST["github"])) {
+
+$github = esc_url($_POST["github"]);
+set_theme_mod("github", $github);
+}
+
 if(isset($_POST["linkedin"])) {
 
 $linkedin = esc_url($_POST["linkedin"]);
@@ -1079,6 +1085,10 @@ selected( esc_attr( $value ), 'rotate' );
 
 <h3><?php _e( 'Digg link', 'floki' ); ?></h3>
 <input type="text" name="digg" id="digg" value ="<?php echo esc_url(floki_get_option( 'digg' )); ?>" size="50" /> <br/>
+<span><?php _e( 'Write url with http://', 'floki' ); ?></span>
+
+<h3><?php _e( 'github link', 'floki' ); ?></h3>
+<input type="text" name="github" id="github" value ="<?php echo esc_url(floki_get_option( 'github' )); ?>" size="50" /> <br/>
 <span><?php _e( 'Write url with http://', 'floki' ); ?></span>
 
 <h3><?php _e( 'LinkedIn link', 'floki' ); ?></h3>

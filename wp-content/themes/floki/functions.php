@@ -190,6 +190,7 @@ function floki_get_option_defaults() {
 		'tumblr' => '',
 		'dribbble' => '',
 		'digg' => '',
+		'github' => '',
 		'linkedin' => '',
 		'blogger' => '',
 		'skype' => '',
@@ -270,7 +271,7 @@ function floki_getContrastYIQ($hexcolor){
 
 // Print functions
 function floki_printsocial($color) {
-	$sociallinks=array("facebook", "rss", "twitter", "flickr","youtube","vimeo","google","pinterest","tumblr","dribbble","digg","linkedin","blogger","skype","myspace","yahoo","instagram");
+	$sociallinks=array("facebook", "rss", "twitter", "flickr","youtube","vimeo","google","pinterest","tumblr","dribbble","digg","github","linkedin","blogger","skype","myspace","yahoo","instagram");
 	foreach($sociallinks as $s) {
 			if(floki_get_option( $s )!="") echo ' <a href="'.esc_url(floki_get_option( $s )).'" target="_blank"><img src="'.get_template_directory_uri().'/images/social_icons/'.$color.'/'.$s.'.png" /></a>';
 	}
