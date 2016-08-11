@@ -77,33 +77,45 @@ else {
 
 	<?php } ?>
 	<!-- page content here-->
-	<div class="portgriddw">
-<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
-	</div>
-	<div class="portgriddw">
-<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
-	</div>
-	<div class="portgriddw">
-<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
-	</div>
-	<div class="portgriddw">
-<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
-	</div>
-	<div class="portgriddw">
-<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
-	</div>
-	<div class="portgriddw">
-<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
-	</div>
-	<div class="portgriddw">
-<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
-	</div>
-	<div class="portgriddw">
-<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
-	</div>
-	<div class="portgriddw">
-<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
-	</div>
+<ul class="portgriddw">
+	<li>
+		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+	</li>
+	<li>
+		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+	</li>
+	<li>
+		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+	</li>
+	<li>
+		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+	</li>
+	<li>
+		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+	</li>
+	<li>
+		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+	</li>
+	<li>
+		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+	</li>
+	<li>
+		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+	</li>
+	<li>
+		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+	</li>
+	<li>
+		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+	</li>
+
+</ul>
+
+
+
+
+
+
 
 
 
