@@ -78,31 +78,31 @@ else {
 	<?php } ?>
 	<!-- page content here-->
 	<div class="portgriddw">
-1
+<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
 	</div>
 	<div class="portgriddw">
-2
+<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
 	</div>
 	<div class="portgriddw">
-3
+<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
 	</div>
 	<div class="portgriddw">
-4
+<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
 	</div>
 	<div class="portgriddw">
-5
+<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
 	</div>
 	<div class="portgriddw">
-6
+<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
 	</div>
 	<div class="portgriddw">
-7
+<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
 	</div>
 	<div class="portgriddw">
-8
+<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
 	</div>
 	<div class="portgriddw">
-9
+<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
 	</div>
 
 
