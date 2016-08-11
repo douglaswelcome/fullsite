@@ -79,34 +79,34 @@ else {
 	<!-- page content here-->
 <ul class="portgriddw">
 	<li>
-		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
 	</li>
 	<li>
-		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
 	</li>
 	<li>
-		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
 	</li>
 	<li>
-		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
 	</li>
 	<li>
-		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
 	</li>
 	<li>
-		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
 	</li>
 	<li>
-		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
 	</li>
 	<li>
-		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
 	</li>
 	<li>
-		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
 	</li>
 	<li>
-		<img src="http://localhost/fullsite/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
 	</li>
 
 </ul>
