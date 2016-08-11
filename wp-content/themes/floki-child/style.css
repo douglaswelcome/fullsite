@@ -255,13 +255,12 @@ line-height: 0px;
 			}
 
 
-	@media screen and (max-device-width: 477px) {
+	@media screen and (max-device-width: 640px) {
 		#mainheader {
 			height: 875px;
 	}
 
 	.portgriddw li {
 			width: 100%;
-
 		}
 	}
