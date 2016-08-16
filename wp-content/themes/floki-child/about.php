@@ -78,7 +78,7 @@ else {
 	<?php } ?>
 	<!-- page content here-->
 <div class="aboutdw">
-	<img src="/wp-content/uploads/2016/08/headshot.jpg" /></img>
+	<img src="wp-content/uploads/2016/08/headshot.jpg" /></img>
 
 My name is Douglas Dale Welcome. I <strong>make things</strong> and <strong>build people</strong>.
 
