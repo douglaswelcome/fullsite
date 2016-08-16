@@ -21,6 +21,13 @@ body {
 		    margin: 0 0 0; /* bottom = footer height*/
  }
 
+body strong {
+ 	color: #F15B66;
+ 	font-weight: 600;
+ 	font-size: 20px;
+ 	display: inline;
+
+ }
 
 
 /*this is to push the footer
@@ -119,6 +126,9 @@ body a:visited, a {
 	margin-top: 4px
 }
 
+.aboutdw {
+	background-image: url(/wp-content/uploads/2016/08/headshot.jpg);
+}
 
 #nopostdw {
 	width: 100%;
@@ -142,12 +152,7 @@ footer {
 
 
 
-.footer2 img {
-	margin-top:25px;
-	margin-bottom:20px;
-	margin-right:10px;
-	margin-left:10px;
-}
+
 
 .social-icons a:hover {
 
@@ -168,7 +173,16 @@ section {
 	padding: 15px 15px;
 }
 
+.footer2 img {
+	margin-top:25px;
+	margin-bottom:20px;
+	margin-right:10px;
+	margin-left:10px;
+}
 
+.flokipost h1 {
+		color: #F15B66
+}
 
 .flokipost strong {
 	color: #F15B66;
