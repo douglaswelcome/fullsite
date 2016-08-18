@@ -78,9 +78,9 @@ else {
 	<?php } ?>
 	<!-- page content here-->
 <div class="aboutdw">
-	<img class="desktopimg" src="/wp-content/uploads/2016/08/headshot2.jpg" /></img>
-	<img class="tabletimg" src="/wp-content/uploads/2016/08/vertical-headshot.jpg" /></img>
-	<img class="mobileimg" src="/wp-content/uploads/2016/08/verticalheadshot2.jpg" /></img>
+	<img class="desktopimg" src="/wp-content/uploads/2016/08/headshot2-1024x649.jpg" /></img>
+	<img class="tabletimg" src="/wp-content/uploads/2016/08/vertical-headshot-768x2103.jpg" /></img>
+	<img class="mobileimg" src="/wp-content/uploads/2016/08/verticalheadshot2-768x3154.jpg" /></img>
 	<div class="aboutcontainerdw">
 		<div class="aboutbackgrounddw" id"containerdw">
 			<div class="abouttextdw">
