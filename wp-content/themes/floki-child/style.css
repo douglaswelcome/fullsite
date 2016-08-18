@@ -415,3 +415,12 @@ line-height: 0px;
 		font-size: 4.2vw;
 	}
 }
+
+@media screen and (max-device-width: 357px) {
+	section {
+		margin-bottom: 224px;
+	}
+	footer {
+		height: 224;
+	}
+}
