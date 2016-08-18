@@ -529,8 +529,9 @@ global $custom_syle;
 
 	wp_enqueue_script( 'jquery');
 	wp_enqueue_script('floki-script', get_template_directory_uri().'/js/floki.js');
+	wp_enqueue_script('custom-floki-script', get_template_directory_uri().'/js/customdw.js');
 
-	wp_localize_script( 'floki-script', 'floki', array( 'animation' => $animation, 'parallaxani' => $parallaxani, 'logo' => esc_url(floki_get_option( 'logo' )), 'isMobile' => $isMobile, 'auxiv1' => '0', 'anidiv' => $anidiv, 'aniimg' => $aniimg, 'anih' => $anih, 'anilink' => $anilink, 'anip' => $anip, 'mainimage' => $mainimage) );
+	wp_localize_script('floki-script', 'floki', array( 'animation' => $animation, 'parallaxani' => $parallaxani, 'logo' => esc_url(floki_get_option( 'logo' )), 'isMobile' => $isMobile, 'auxiv1' => '0', 'anidiv' => $anidiv, 'aniimg' => $aniimg, 'anih' => $anih, 'anilink' => $anilink, 'anip' => $anip, 'mainimage' => $mainimage) );
 
 	if ( is_singular() ) wp_enqueue_script( "comment-reply" );
 

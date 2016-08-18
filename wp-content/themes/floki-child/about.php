@@ -78,21 +78,29 @@ else {
 	<?php } ?>
 	<!-- page content here-->
 <div class="aboutdw">
-	<img src="wp-content/uploads/2016/08/headshot.jpg" /></img>
+	<img class="desktopimg" src="/wp-content/uploads/2016/08/headshot2.jpg" /></img>
+	<img class="tabletimg" src="/wp-content/uploads/2016/08/vertical-headshot.jpg" /></img>
+	<img class="mobileimg" src="/wp-content/uploads/2016/08/verticalheadshot2.jpg" /></img>
+	<div class="aboutcontainerdw">
+		<div class="aboutbackgrounddw" id"containerdw">
+			<div class="abouttextdw">
+<p style="text-align:center;font-weight:600;color:#F15B66">
+MY NAME IS DOUGLAS DALE WELCOME. </p> I <strong>make things</strong> and <strong>build people</strong>.
+As a creative <strong>maker</strong> with a background in music, I create and design compelling visual and audio work that shapes a <strong>holistic experience</strong> and aesthetic for an audience. As a <strong>people-builder</strong>, I approach project management through <strong>talent development</strong> and <strong>collaboration</strong> with artists, designers, and engineers. I always begin with asking why? Because I think you should believe in your work. Believe in:
+<p style="text-align: center;">
+	<i>what</i> you <strong>cultivate</strong>,
+	<br /><i>how</i> you <strong>curate</strong>,
+	<br />and <i>who</i> you <strong>collaborate</strong> with.
+</p>
 
-My name is Douglas Dale Welcome. I <strong>make things</strong> and <strong>build people</strong>.
-
-As a creative <strong>maker</strong> with a background in music, I create and design compelling visual and audio work that shapes a <strong>holistic experience</strong> and aesthetic for an audience. As a <strong>people-builder</strong>, I approach project management through <strong>talent development</strong> and <strong>collaboration</strong> with artists, designers, and engineers.
-
-I always begin with asking why? Because I think you should believe in your work. Believe in:
-<p style="text-align: center;"><i>what</i> you <strong>cultivate</strong>,
-<i>how</i> you <strong>curate</strong>,
-and <i>who</i> you <strong>collaborate</strong> with.</p>
-<p style="text-align: left;">Here's what that means for me:</p>
-<strong>Cultivate</strong>: Make something that causes the world around you to flourish.
-<strong>Curate</strong>: Design an experience that captivates, motivates, and enlightens those who encounter it.
-<strong>Collaborate</strong>: Harness your teammates' potential and gather together to create something bigger than yourself.
-
+<p style="text-align:left">In case you were curious, here's what I mean by that:</p>
+<div style="padding-left:10px">
+• <strong>Cultivate</strong>: Make something that causes the world around you to flourish.
+<br />• <strong>Curate</strong>: Design an experience that captivates, motivates, and enlightens those who encounter it.
+<br />• <strong>Collaborate</strong>: Harness your teammates' potential and gather together to create something bigger than yourself.</div>
+			</div>
+		</div>
+	</div>
 </div>
 
 

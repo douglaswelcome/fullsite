@@ -2,6 +2,7 @@ animation=floki.animation;
 parallaxani=floki.parallaxani;
 var ww = 0;
 	jQuery(document).ready(function(){
+
 /* menu  responsive */
 ww =jQuery(window).width();
 
