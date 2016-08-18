@@ -423,4 +423,7 @@ line-height: 0px;
 	footer {
 		height: 224px;
 	}
+	#mainheader {
+		height: 925px;
+	}
 }
