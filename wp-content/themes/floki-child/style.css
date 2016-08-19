@@ -255,8 +255,6 @@ section {
 .buttondw {
 	background-color: #4EBFA7;
 	border: 2px;
-	border-color: white;
-	border-style: solid;
 	border-radius: 15px;
 	width: 33.33%;
 	margin-left:auto;
@@ -269,6 +267,7 @@ section {
 
 .buttondw:hover {
 	background-color: #F15B66;
+	opacity: .5;
 }
 
 .flokipost {
