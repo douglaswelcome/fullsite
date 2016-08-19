@@ -1162,7 +1162,7 @@ tr:last-child td.last {
 /* #Base 960 Grid
 ================================================== */
 
-    .container                                  { position: relative; max-width: 1099px; margin: 0 auto; padding: 0; clear:both; width:100%; }
+    .container                                  { position: relative; margin: 0 auto; padding: 0; clear:both; width:100%; }
     .container .column,
     .container .columns                         { float: left; display: inline; margin-left: 10px; margin-right: 10px; }
     .row                                        { margin-bottom: 20px; }
@@ -1303,7 +1303,7 @@ tr:last-child td.last {
 		.logo {
 			position:absolute;
 		}
-        .container { width: 300px; }
+        .container { width: 100%; }
         .container .columns,
         .container .column { margin: 0; }
 
@@ -1358,7 +1358,7 @@ tr:last-child td.last {
     /* Note: Design for a width of 480px */
 
     @media only screen and (min-width: 480px) and (max-width: 768px) {
-        .container { width: 420px; }
+        .container { width: 100%; }
         .container .columns,
         .container .column { margin: 0; }
 

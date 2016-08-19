@@ -215,9 +215,7 @@ section {
 	margin-bottom: 108px
 }
 
-.flokipost {
-	padding: 15px 15px;
-}
+
 
 .footer2 img {
 	margin-top:25px;
@@ -226,6 +224,56 @@ section {
 	margin-left:10px;
 }
 
+/*contact details*/
+
+.contactbackgrounddw {
+	height: 100%;
+	width: 100%;
+}
+
+.contactbackgrounddw img {
+	width: 100%;
+	margin-top: -30%;
+	margin-bottom: -25%;
+}
+
+.contactboxdw {
+	margin-top: 12%;
+	margin-left: auto;
+	margin-right: auto;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	color: white;
+	font-size: 2.7vw;
+	font-weight: 500;
+	text-align: center;
+	line-height: 1.5;
+}
+
+.buttondw {
+	background-color: #4EBFA7;
+	border: 2px;
+	border-color: white;
+	border-style: solid;
+	border-radius: 15px;
+	width: 33.33%;
+	margin-left:auto;
+	margin-right: auto;
+	margin-top: 10px;
+	color: white;
+	padding: 10px;
+
+}
+
+.buttondw:hover {
+	background-color: #F15B66;
+}
+
+.flokipost {
+	padding: 0px;
+}
 .flokipost h1 {
 		color: #F15B66
 }
@@ -235,17 +283,14 @@ section {
 	font-weight: 600;
 	font-size: 20px;
 	display: inline;
-
 }
 
 .flokipost a {
 	color: #4EBFA7;
-
 }
 
 .flokipost a:hover, a:focus{
 	color: #F15B66;
-
 }
 
 .logo {
@@ -360,9 +405,14 @@ line-height: 0px;
 		}
  .desktopimg {
 	 display: none;
- }
+	 }
 .tabletimg {
 	display: block;
+	}
+
+	.flokipost {
+		padding: 0px;
+	}
 }
 
 @media screen and (max-device-width: 642px) {
@@ -373,7 +423,7 @@ line-height: 0px;
 		opacity: 1;
 		font-size: 3.1vw;
 	}
-
+}
 
 @media screen and (max-device-width: 490px) {
 	.abouttextdw {
