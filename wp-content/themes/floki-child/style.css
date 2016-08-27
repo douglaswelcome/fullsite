@@ -330,6 +330,14 @@ table#treering td {
 	color: #F15B66;
 }
 
+article li {
+	margin-bottom: 0;
+}
+
+#graphicgriddw {
+	margin-bottom: 0;
+}
+
 .logo {
 	display: block; position: fixed; left: 0px; right: 0px; z-index: 9999;
 
