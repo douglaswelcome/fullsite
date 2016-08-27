@@ -283,6 +283,45 @@ section {
 	display: inline;
 }
 
+/* Portfolio Divs*/
+.portfoliowidthdw {
+
+}
+
+.portfoliowidthdw img {
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom: 3%;
+}
+
+.portfoliotextdw {
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+
+.minicenterdivdw {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	text-align: center;
+}
+
+table#treering {
+	width: 50%;
+	background: none;
+	padding: 0;
+	border: 0px;
+	margin: 0 auto 0 auto;
+	box-shadow: 0 0 0 0;
+}
+
+table#treering td {
+	border: 0;
+	background: none;
+	padding: 3px;
+}
+
 .flokipost a {
 	color: #4EBFA7;
 }
