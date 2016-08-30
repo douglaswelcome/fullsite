@@ -81,7 +81,7 @@ else {
 	<li >
 		<div class="view view-fifth">
 		<a href="">
-		<img src="/fullsite/wp-content/uploads/2016/08/Be-Rich-Square.png" />
+		<img src="/wp-content/uploads/2016/08/Be-Rich-Square.png" />
 		<div class="mask">
 		<h2>Be Rich</h2>
 		<p>
@@ -94,7 +94,7 @@ else {
 	<li>
 		<div class="view view-fifth">
 		<a href="">
-		<img src="/fullsite/wp-content/uploads/2016/08/RetroGif.gif" />
+		<img src="/wp-content/uploads/2016/08/RetroGif.gif" />
 		<div class="mask">
 		<h2>Retro-Projecto</h2>
 		<p>
@@ -107,7 +107,7 @@ else {
 	<li>
 		<div class="view view-fifth">
 		<a href="">
-		<img src="/fullsite/wp-content/uploads/2016/08/coatdrivegrid.png" />
+		<img src="/wp-content/uploads/2016/08/coatdrivegrid.png" />
 		<div class="mask">
 		<h2>The Table Church</h2>
 		<p>
@@ -120,7 +120,7 @@ else {
 	<li>
 		<div class="view view-fifth">
 		<a href="">
-		<img src="/fullsite/wp-content/uploads/2016/08/noelgrid.png" />
+		<img src="/wp-content/uploads/2016/08/noelgrid.png" />
 		<div class="mask">
 		<h2>Noel: A Winter Gift</h2>
 		<p>
@@ -133,7 +133,7 @@ else {
 	<li>
 		<div class="view view-fifth">
 		<a href="">
-		<img src="/fullsite/wp-content/uploads/2016/08/CommunityGroup.png" />
+		<img src="/wp-content/uploads/2016/08/CommunityGroup.png" />
 		<div class="mask">
 		<h2>Community Group 2016</h2>
 		<p>
@@ -146,7 +146,7 @@ else {
 	<li>
 		<div class="view view-fifth">
 		<a href="">
-		<img src="/fullsite/wp-content/uploads/2016/08/portTreeRing-03.png" />
+		<img src="/wp-content/uploads/2016/08/portTreeRing-03.png" />
 		<div class="mask">
 		<h2>The Tree Ring</h2>
 		<p>
