@@ -106,7 +106,7 @@ else {
 	</li>
 	<li>
 		<div class="view view-fifth">
-		<a href="/collectedgraphicdesign/">
+		<a href="/graphics/">
 		<img src="/wp-content/uploads/2016/08/coatdrivegrid.png" />
 		<div class="mask">
 		<h2>The Table Church</h2>
@@ -132,7 +132,7 @@ else {
 	</li>
 	<li>
 		<div class="view view-fifth">
-		<a href="/communitygroupcampaign/">
+		<a href="/communitygroups/">
 		<img src="/wp-content/uploads/2016/08/CommunityGroup.png" />
 		<div class="mask">
 		<h2>Community Group 2016</h2>
