@@ -80,7 +80,7 @@ else {
 <ul class="portgriddw">
 	<li >
 		<div class="view view-fifth">
-		<a href="">
+		<a href="/berichcampaign/">
 		<img src="/wp-content/uploads/2016/08/Be-Rich-Square.png" />
 		<div class="mask">
 		<h2>Be Rich</h2>
