@@ -106,7 +106,7 @@ else {
 	</li>
 	<li>
 		<div class="view view-fifth">
-		<a href="/graphics/">
+		<a href="/thetablechurch/">
 		<img src="/wp-content/uploads/2016/08/coatdrivegrid.png" />
 		<div class="mask">
 		<h2>The Table Church</h2>
