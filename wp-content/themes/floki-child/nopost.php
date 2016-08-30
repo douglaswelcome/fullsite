@@ -135,7 +135,7 @@ else {
 		<a href="/communitygroups/">
 		<img src="/wp-content/uploads/2016/08/CommunityGroup.png" />
 		<div class="mask">
-		<h2>Community Group 2016</h2>
+		<h2>Community Group Campaign</h2>
 		<p>
 			A marketing campaign I designed and managed to increase involvement in the "Commmunity Group" program.
 		</p>
