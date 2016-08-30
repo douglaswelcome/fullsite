@@ -78,36 +78,86 @@ else {
 	<?php } ?>
 	<!-- page content here-->
 <ul class="portgriddw">
-	<li>
-		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+	<li >
+		<div class="view view-fifth">
+		<a href="">
+		<img src="/fullsite/wp-content/uploads/2016/08/Be-Rich-Square.png" />
+		<div class="mask">
+		<h2>Be Rich</h2>
+		<p>
+			A giving campaign I designed targeted at increasing membership buy in and investment.
+		</p>
+		</div>
+		</a>
+		</div>
 	</li>
 	<li>
-		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+		<div class="view view-fifth">
+		<a href="">
+		<img src="/fullsite/wp-content/uploads/2016/08/RetroGif.gif" />
+		<div class="mask">
+		<h2>Retro-Projecto</h2>
+		<p>
+			A retro arcade console utilizing a vintage 16mm film Projecto-Editor.
+		</p>
+		</div>
+		</a>
+		</div>
 	</li>
 	<li>
-		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+		<div class="view view-fifth">
+		<a href="">
+		<img src="/fullsite/wp-content/uploads/2016/08/coatdrivegrid.png" />
+		<div class="mask">
+		<h2>The Table Church</h2>
+		<p>
+			A collection of slides and print images I designed for The Table Church in Washington, DC.
+		</p>
+		</div>
+		</a>
+		</div>
 	</li>
 	<li>
-		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+		<div class="view view-fifth">
+		<a href="">
+		<img src="/fullsite/wp-content/uploads/2016/08/noelgrid.png" />
+		<div class="mask">
+		<h2>Noel: A Winter Gift</h2>
+		<p>
+			An album I produced with my wife as a gift for family and friends for the Advent/Christmas season of 2011.
+		</p>
+		</div>
+		</a>
+		</div>
 	</li>
 	<li>
-		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+		<div class="view view-fifth">
+		<a href="">
+		<img src="/fullsite/wp-content/uploads/2016/08/CommunityGroup.png" />
+		<div class="mask">
+		<h2>Community Group 2016</h2>
+		<p>
+			A marketing campaign I designed and managed to increase involvement in the "Commmunity Group" program.
+		</p>
+		</div>
+		</a>
+		</div>
 	</li>
 	<li>
-		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
+		<div class="view view-fifth">
+		<a href="">
+		<img src="/fullsite/wp-content/uploads/2016/08/portTreeRing-03.png" />
+		<div class="mask">
+		<h2>The Tree Ring</h2>
+		<p>
+			A nature-centric band based out of San Diego with which I collaboatred and played upright bass.
+		</p>
+		</div>
+		</a>
+		</div>
 	</li>
-	<li>
-		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
-	</li>
-	<li>
-		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
-	</li>
-	<li>
-		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
-	</li>
-	<li>
-		<img src="/wp-content/themes/floki-child/contents/PortfolioGridTest.png" />
-	</li>
+
+
 
 </ul>
 

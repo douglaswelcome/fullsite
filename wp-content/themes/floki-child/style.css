@@ -8,6 +8,12 @@
  Version:        1.0.0
 */
 
+/* colors:
+Green: #4EBFA7;
+
+Red: #F15B66;
+*/
+
 @import url("../floki/style.css");
 
 @import 'https://fonts.googleapis.com/css?family=Raleway';
@@ -17,6 +23,7 @@ html {
 		    position: relative;
 		    min-height: 100%;
 		}
+
 body {
 		    margin: 0 0 0; /* bottom = footer height*/
  }
@@ -25,27 +32,13 @@ body strong {
  	color: #F15B66;
  	font-weight: 600;
  	display: inline;
-
  }
 
+ section {
+ 	margin-bottom: 108px
+ }
 
-/*this is to push the footer
-* {
-	margin: 0;
-}
-html, body {
-		height: 100%;
-		}
-.wrapper {
-		min-height: 100%;
-		height: auto !important;
-		height: 100%;
-		margin: 0 auto -4em;
-	}
-.footer, .push {
-		height: 10em;
-		}
-this is to push the footer*/
+/* Mostly Header Stuff */
 
 #logoweb {
 	font-weight: 400;
@@ -106,13 +99,14 @@ color: #ecf0f1;
 	padding-bottom: 5px;
 }
 
+#menu a:hover, a:focus {
+	color: #F15B66;
+}
+
 body a:visited, a {
 	color: #4EBFA7;
 }
 
-#menu a:hover, a:focus {
-	color: #F15B66;
-}
 .cl-effect-21 a::before {
 	background: #2C6466;
 }
@@ -124,6 +118,8 @@ body a:visited, a {
 .toggleMenu img {
 	margin-top: 4px
 }
+
+/* About Page Content */
 
 .aboutdw {
 	width: 100%;
@@ -182,6 +178,8 @@ body a:visited, a {
 
 
 
+/* footer Stuff */
+
 body>footer {
 	padding-top: 0px;
 	background: transparent;
@@ -196,9 +194,7 @@ footer {
 		background-color: transparent;
 }
 
-
-
-
+/* Social Icon Stuff */
 
 .social-icons a:hover {
 
@@ -209,10 +205,6 @@ footer {
 			padding-left:10px;
 			padding-right:10px;
 			font-size: 14px;
-}
-
-section {
-	margin-bottom: 108px
 }
 
 
@@ -284,9 +276,7 @@ section {
 }
 
 /* Portfolio Divs*/
-.portfoliowidthdw {
 
-}
 
 .portfoliowidthdw img {
 	margin-left:auto;
@@ -300,12 +290,18 @@ section {
 	margin-bottom: 5%;
 }
 
+
+
+/* work page details */
+
 .minicenterdivdw {
 	margin-left: auto;
 	margin-right: auto;
 	width: 100%;
 	text-align: center;
 }
+
+
 
 table#treering {
 	width: 50%;
@@ -365,7 +361,7 @@ video#bgvid {
     background-size: cover;
 }
 
-/* stuff for resizing grid on portfolio pages
+/* stuff for resizing grid on work pages
 */
 
 .portgriddw {
@@ -381,10 +377,99 @@ line-height: 0px;
 		width: 33.333%;
 		text-align: left;
 }
-.portgriddw li img {
-	width: 100%;
 
+
+.portgriddw img {
+	width: 100%;
+	display: block;
+	position: relative;
 }
+
+.view {
+	float: left;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  cursor: default;
+}
+
+.view .mask, .view .content {
+  position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+}
+
+	.view h2 {
+			text-transform: uppercase;
+	    color: #F15B66;
+	    text-align: center;
+	    position: relative;
+	    font-size: 20px;
+	    padding: 1px;
+	    background: rgba(0, 0, 0, 1);
+	    margin: 5% 0 0 0;
+	}
+	.view p {
+			font-family: playfair;
+	  	font-style: italic;
+	    font-size: 18px;
+	    position: relative;
+	    color: #ffffff;
+	    padding: 0px 10px 0px;
+	    text-align: center;
+			line-height: normal;
+	}
+	.view a.info {
+	    display: inline-block;
+	    text-decoration: none;
+	    padding: 0;
+	    background: #000;
+	    color: #ffffff;
+	    text-transform: uppercase;
+	    box-shadow: 0 0 1px #000;
+	}
+	.view a.info:hover {
+	    box-shadow: 0 0 5px #000
+	}
+
+	/* view fifth*/
+
+	.view-fifth img {
+		transition: all 0s ease-in-out;
+	}
+	.view-fifth .mask {
+		background-color: rgba(0,0,0,0.8);
+		transform: translateX(-100%);
+		opacity: 0;
+		transition: all 0.2s ease-in-out;
+	}
+	.view-fifth h2{
+	    background: rgba(0, 0, 0, 1);
+	    color: #F15B66;
+
+	}
+	.view-fifth p{
+	    opacity: 0;
+	    color: #fff;
+	    transition: all 0.2s linear;
+	}
+
+.view-fifth:hover .mask {
+	transform: translateX(0%);
+	opacity:1;
+}
+.view-fifth:hover img {
+	transform: translateX(0%);
+	transition-delay: 0s;
+}
+.view-fifth:hover p{
+    opacity: 1;
+    transition-delay: 0.4s;
+}
+
 
 @media screen and (max-device-width: 890px) {
 	.abouttextdw {
