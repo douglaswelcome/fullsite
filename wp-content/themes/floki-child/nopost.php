@@ -93,7 +93,7 @@ else {
 	</li>
 	<li>
 		<div class="view view-fifth">
-		<a href="">
+		<a href="/retroprojecto/">
 		<img src="/wp-content/uploads/2016/08/RetroGif.gif" />
 		<div class="mask">
 		<h2>Retro-Projecto</h2>
@@ -106,7 +106,7 @@ else {
 	</li>
 	<li>
 		<div class="view view-fifth">
-		<a href="">
+		<a href="/collectedgraphicdesign/">
 		<img src="/wp-content/uploads/2016/08/coatdrivegrid.png" />
 		<div class="mask">
 		<h2>The Table Church</h2>
@@ -119,7 +119,7 @@ else {
 	</li>
 	<li>
 		<div class="view view-fifth">
-		<a href="">
+		<a href="/noel/">
 		<img src="/wp-content/uploads/2016/08/noelgrid.png" />
 		<div class="mask">
 		<h2>Noel: A Winter Gift</h2>
@@ -132,7 +132,7 @@ else {
 	</li>
 	<li>
 		<div class="view view-fifth">
-		<a href="">
+		<a href="/communitygroupcampaign/">
 		<img src="/wp-content/uploads/2016/08/CommunityGroup.png" />
 		<div class="mask">
 		<h2>Community Group 2016</h2>
@@ -145,7 +145,7 @@ else {
 	</li>
 	<li>
 		<div class="view view-fifth">
-		<a href="">
+		<a href="/thetreering/">
 		<img src="/wp-content/uploads/2016/08/portTreeRing-03.png" />
 		<div class="mask">
 		<h2>The Tree Ring</h2>
