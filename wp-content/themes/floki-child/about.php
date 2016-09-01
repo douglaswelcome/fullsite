@@ -94,22 +94,14 @@ As a creative <strong>maker</strong> with a background in music, I create and de
 </p>
 
 <p style="text-align:left">In case you were curious, here's what I mean by that:</p>
-<div style="padding-left:10px">
-• <strong>Cultivate</strong>: Make something that causes the world around you to flourish.
-<br />• <strong>Curate</strong>: Design an experience that captivates, motivates, and enlightens those who encounter it.
-<br />• <strong>Collaborate</strong>: Harness your teammates' potential and gather together to create something bigger than yourself.</div>
+<div style="padding-left:20px">
+<strong>Cultivate</strong>: Make something that causes the world around you to flourish.
+<br /><strong>Curate</strong>: Design an experience that captivates, motivates, and enlightens those who encounter it.
+<br /><strong>Collaborate</strong>: Harness your teammates' potential and gather together to create something bigger than yourself.</div>
 			</div>
 		</div>
 	</div>
 </div>
-
-
-
-
-
-
-
-
 
 	<!-- page content end here-->
 <div class="<?php echo $content_css; ?>">
