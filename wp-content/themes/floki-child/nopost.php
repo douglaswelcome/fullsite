@@ -85,7 +85,7 @@ else {
 		<div class="mask">
 		<h2>Be Rich</h2>
 		<p>
-			A giving campaign I designed targeted at increasing membership buy in and investment.
+			A giving campaign I designed which targeted increasing membership buy-in and investment.
 		</p>
 		</div>
 		</a>
@@ -98,7 +98,7 @@ else {
 		<div class="mask">
 		<h2>Retro-Projecto</h2>
 		<p>
-			A retro arcade console utilizing a vintage 16mm film Projecto-Editor.
+			A retro arcade console I built utilizing a vintage 16mm film Projecto-Editor.
 		</p>
 		</div>
 		</a>
@@ -135,9 +135,9 @@ else {
 		<a href="/communitygroups/">
 		<img src="/wp-content/uploads/2016/08/CommunityGroup.png" />
 		<div class="mask">
-		<h2>Community Group Campaign</h2>
+		<h2>Community Groups</h2>
 		<p>
-			A marketing campaign I designed and managed to increase involvement in the "Commmunity Group" program.
+			A marketing campaign I designed and managed to increase program involvement.
 		</p>
 		</div>
 		</a>
@@ -150,7 +150,7 @@ else {
 		<div class="mask">
 		<h2>The Tree Ring</h2>
 		<p>
-			A nature-centric band based out of San Diego with which I collaboatred and played upright bass.
+			A nature-centric band based out of San Diego with which I collaborated and played upright bass.
 		</p>
 		</div>
 		</a>
