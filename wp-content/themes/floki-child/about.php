@@ -86,7 +86,7 @@ else {
 			<div class="abouttextdw">
 <p style="text-align:center;font-weight:600;color:#F15B66">
 MY NAME IS DOUGLAS DALE WELCOME. </p> I <strong>make things</strong> and <strong>build people</strong>.
-As a creative <strong>maker</strong> with a background in music, I create and design compelling visual and audio work that shapes a <strong>holistic experience</strong> and aesthetic for an audience. As a <strong>people-builder</strong>, I approach project management through <strong>talent development</strong> and <strong>collaboration</strong> with artists, designers, and engineers. I always begin with asking why? Because I think you should believe in your work. Believe in:
+As a creative <strong>maker</strong> with a background in music, I create and design compelling visual and audio work that shapes a <strong>holistic experience</strong> and aesthetic for an audience. As a <strong>people-builder</strong>, I approach project management through <strong>talent development</strong> and <strong>collaboration</strong> with artists, designers, and engineers. I always begin with asking "why?" Because I think you should believe in your work. Believe in:
 <p style="text-align: center;">
 	<i>what</i> you <strong>cultivate</strong>,
 	<br /><i>how</i> you <strong>curate</strong>,
