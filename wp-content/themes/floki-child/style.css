@@ -594,6 +594,9 @@ padding: 0;
 	}
 
 @media screen and (max-width: 390px) {
+.footer2 img {
+	width: 40px;
+
 	.abouttextdw {
 		height: 100%;
 		width: 100%;
