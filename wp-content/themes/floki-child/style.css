@@ -60,7 +60,7 @@ body strong {
 	float:inherit;
 	position:relative;
 	height: 750px;
-	background-color: rgba(0, 0, 0, 0.6);
+	background-color: rgba(0, 0, 0, 0.5);
 }
 #mainheader .text{
 	position: absolute;
@@ -486,7 +486,7 @@ padding: 0;
 
 @media screen and (max-device-width: 768px) {
 #mainheader {
-		background: url(http://douglaswelcome.com/wp-content/uploads/2016/06/goldengatebw.jpg) #000 no-repeat center center fixed;
+		background: url(/wp-content/uploads/2016/06/goldengatebwsmaller.png) #000 no-repeat center center fixed;
 	}
 #bgvid {
 		display: none;
