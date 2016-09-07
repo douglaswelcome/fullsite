@@ -60,6 +60,7 @@ body strong {
 	float:inherit;
 	position:relative;
 	height: 750px;
+	background-color: rgba(0, 0, 0, 0.6);
 }
 #mainheader .text{
 	position: absolute;
@@ -69,6 +70,7 @@ left: 12%;
  margin: 0 auto;
  opacity: 0;
 }
+
 #mainheader h2 {
 	font-size: 35px;line-height: 55px;font-weight: 200;letter-spacing: 5px;
 	border: none;
