@@ -605,14 +605,16 @@ padding: 0;
 	}
 }
 
-@media screen and (max-width: 357px) {
+@media screen and (max-width: 276px) {
 	section {
 		margin-bottom: 224px;
 	}
-	footer {
+footer {
 		height: 224px;
 	}
-	#mainheader {
-		height: 925px;
+.footer2 {
+	position: absolute;
+	bottom: 0;
+}
 	}
 }
