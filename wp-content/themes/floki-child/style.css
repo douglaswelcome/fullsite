@@ -103,7 +103,11 @@ color: #ecf0f1;
 	color: #F15B66;
 }
 
-body a:visited, a {
+#menu a {
+	color: #4EBFA7;
+}
+
+body a, a:visited, {
 	color: #4EBFA7;
 }
 
