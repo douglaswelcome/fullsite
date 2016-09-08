@@ -495,7 +495,7 @@ padding: 0;
 
 @media screen and (max-width: 768px) {
  	#mobilecenterdw {
-	 	width: 317px;
+	 	width: 355px;
  		}
 	.portgriddw li {
 		width: 50%;
@@ -594,6 +594,9 @@ padding: 0;
 	}
 
 @media screen and (max-width: 390px) {
+	#mobilecenterdw {
+		width: 315px;
+		}
 .footer2 img {
 	width: 40px;
 
