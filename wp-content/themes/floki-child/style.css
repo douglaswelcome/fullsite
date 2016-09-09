@@ -16,7 +16,7 @@ Red: #F15B66;
 
 @import url("../floki/style.css");
 
-@import 'https://fonts.googleapis.com/css?family=Raleway';
+@import 'https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700';
 
 
 html {
@@ -121,9 +121,13 @@ body a, a:visited, {
 	background: #2C6466;
 }
 
-.toggleMenu img {
-	margin-top: 4px
+
+
+#sixcenterdw {
+	width: 315px;
 }
+
+
 
 /* About Page Content */
 
@@ -225,8 +229,10 @@ footer {
 /*contact details*/
 
 .contactbackgrounddw {
-	height: 100%;
-	width: 100%;
+	height: 750px;
+	background-image: url(/wp-content/uploads/2016/09/atmosphere2.jpg);
+	background-position: center;
+	background-size: cover;
 }
 
 .contactbackgrounddw img {
@@ -236,7 +242,7 @@ footer {
 }
 
 .contactboxdw {
-	margin-top: 12%;
+	margin-top: 3%;
 	margin-left: auto;
 	margin-right: auto;
 	position: absolute;
@@ -245,7 +251,7 @@ footer {
 	right: 0px;
 	color: white;
 	font-size: 2.7vw;
-	font-weight: 500;
+	font-weight: 300;
 	text-align: center;
 	line-height: 1.5;
 }
@@ -322,6 +328,7 @@ table#treering td {
 
 .flokipost a {
 	color: #4EBFA7;
+	font-weight: 500;
 }
 
 .flokipost a:hover, a:focus{
@@ -408,6 +415,7 @@ padding: 0;
 	.view h2 {
 			text-transform: uppercase;
 	    color: #F15B66;
+			font-weight: 500;
 	    text-align: center;
 	    position: relative;
 	    font-size: 20px;
@@ -416,8 +424,7 @@ padding: 0;
 	    margin: 5% 0 0 0;
 	}
 	.view p {
-			font-family: playfair;
-	  	font-style: italic;
+	  	font-weight: 400;
 	    font-size: 18px;
 	    position: relative;
 	    color: #ffffff;
@@ -481,6 +488,13 @@ padding: 0;
 		opacity: 1;
 		font-size: 1.3vw;
 	}
+	.contactboxdw {
+			font-size: 3vw;
+	}
+
+	.buttondw {
+		width: 55%
+	}
 
 }
 
@@ -494,9 +508,20 @@ padding: 0;
 }
 
 @media screen and (max-width: 768px) {
- 	#mobilecenterdw {
+	.toggleMenu {
+		height: 40px;
+		width: 40px;
+	}
+	.toggleMenu img {
+	}
+
+	#mobilecenterdw {
 	 	width: 355px;
+		vertical-align: middle;
  		}
+		#sixcenterdw {
+			width: 355px;
+		}
 	.portgriddw li {
 		width: 50%;
 		}
@@ -559,6 +584,14 @@ padding: 0;
 		opacity: 1;
 		font-size: 3.1vw;
 	}
+
+.contactboxdw {
+		font-size: 4vw;
+}
+
+.buttondw {
+	width: 50%
+}
 }
 
 @media screen and (max-width: 490px) {
@@ -568,6 +601,11 @@ padding: 0;
 		opacity: 1;
 		font-size: 3vw;
 	}
+
+	.buttondw {
+		width: 65%
+	}
+}
 	@media screen and (max-width: 477px) {
 		#mainheader {
 			height: 875px;
@@ -588,24 +626,43 @@ padding: 0;
 		font-size: 4.5vw;
 	}
 
+	.contactboxdw {
+			font-size: 5vw;
+	}
+
 	.portgriddw li {
 			width: 100%;
 		}
 	}
 
 @media screen and (max-width: 390px) {
+  #logoweb a {
+		font-size: 20px;
+	}
 	#mobilecenterdw {
-		width: 315px;
+		width: 310px;
+		padding: 0 5 0 5;
+		}
+	#sixcenterdw {
+		width: 310px;
 		}
 .footer2 img {
 	width: 40px;
-
-	.abouttextdw {
+}
+.abouttextdw{
 		height: 100%;
 		width: 100%;
 		opacity: 1;
 		font-size: 4.2vw;
 	}
+
+.contactboxdw {
+		font-size: 6vw;
+}
+.buttondw {
+	width: 70%
+}
+
 }
 
 @media screen and (max-width: 276px) {

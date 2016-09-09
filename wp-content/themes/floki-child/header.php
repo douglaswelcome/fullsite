@@ -116,7 +116,7 @@
          <div class="logo">
     <div class="container" id="mobilecenterdw">
 
-        <div class="six columns" style="width:317px">
+        <div class="six columns" id="sixcenterdw">
 
 				<?php if(floki_get_option( 'logo' )!="") {?>
 
@@ -130,21 +130,21 @@
 		?>
 
 
-            <h1 id="logoweb" name="logoweb"><a href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a> <a class="toggleMenu" href="#"><img src="<?php echo get_template_directory_uri(); ?>/images/mobile_menu.png" /></a></h1>
+            <h1 id="logoweb" name="logoweb"><a href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a> <a class="toggleMenu" href="#" style="margin-top:-9px"><img src="<?php echo get_template_directory_uri(); ?>/images/mobile_menu.png" /></a>
 
 
-        <?php } ?>
+		        <?php } ?>
 
-        <?php if(floki_get_option( 'logo' )!="") {?>
-		<a class="toggleMenu" href="#"><img src="<?php echo get_template_directory_uri(); ?>/images/mobile_menu.png" /></a>
-         <?php } ?>
-
-       </div>
-
-
+		        <?php if(floki_get_option( 'logo' )!="") {?>
+							<a class="toggleMenu" href="#"><img src="<?php echo get_template_directory_uri(); ?>/images/mobile_menu.png" /></a>
+		         <?php } ?>
+					 </h1>
+         </div>
 
 
-        <div class="nine columns" style="float:right;">
+
+
+        <div class="six columns" id ="sixcenterdw" style="float:right;">
 			<nav>
 				<?php wp_nav_menu( array( 'theme_location' => 'header-menu', 'menu_class' => 'nav cl-effect-21', 'menu_id'  => 'menu' ) ); ?>
 			</nav>
