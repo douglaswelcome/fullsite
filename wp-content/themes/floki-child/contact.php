@@ -31,7 +31,7 @@ $mainclass="grid2";
 
 //echo floki_get_breadcrumbfloki(); ?>
 
-<section>
+<section id="contactsectiondw">
 <div class="contactbackgrounddw">
  <?php
 

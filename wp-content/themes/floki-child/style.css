@@ -231,7 +231,7 @@ footer {
 /*contact details*/
 
 .contactbackgrounddw {
-	height: 750px;
+	height: 950px;
 	background-image: url(/wp-content/uploads/2016/09/atmosphere2.jpg);
 	background-position: center;
 	background-size: cover;
@@ -482,6 +482,9 @@ padding: 0;
     transition-delay: 0.4s;
 }
 
+#contactsectiondw {
+	margin-bottom:0px;
+}
 
 @media screen and (max-device-width: 890px) {
 	.abouttextdw {
