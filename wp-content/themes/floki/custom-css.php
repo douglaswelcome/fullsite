@@ -92,7 +92,7 @@ $custom_syle.="}
 
 
 
-$custom_syle.="	font-weight:lighter;
+$custom_syle.="	font-weight:500;
 
   }";
 
