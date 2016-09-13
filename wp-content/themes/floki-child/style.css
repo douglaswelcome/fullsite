@@ -61,6 +61,7 @@ body strong {
 	position:relative;
 	height: 100vh;
 	background-color: rgba(0, 0, 0, 0.5);
+	min-height: 850px;
 }
 #mainheader .text{
 	position: absolute;
@@ -235,6 +236,7 @@ footer {
 	background-image: url(/wp-content/uploads/2016/09/atmosphere2.jpg);
 	background-position: center;
 	background-size: cover;
+	min-height: 560px;
 }
 
 .contactbackgrounddw img {
