@@ -405,6 +405,7 @@ padding: 0;
   position: relative;
   text-align: center;
   cursor: default;
+	width: 100%;
 }
 
 .view .mask, .view .content {
@@ -514,7 +515,11 @@ padding: 0;
 		display: none;
 	}
 }
-
+@media screen and (max-width: 1200px) {
+	.portgriddw li {
+		width: 50%;
+		}
+}
 @media screen and (max-width: 768px) {
 	.toggleMenu {
 		height: 40px;

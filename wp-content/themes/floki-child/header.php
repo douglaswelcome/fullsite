@@ -192,7 +192,7 @@
 
 			 ?>
              <div class="text">
-							 <img src="http://douglaswelcome.com/wp-content/uploads/2016/07/logowhite-01.png">
+							 <img src="http://douglaswelcome.com/wp-content/uploads/2016/07/logowhite-01.png" style="margin-bottom:80px;">
 			 <?php
 			 if(floki_get_option( 'headertitle' )!="") {
 				 ?>
